@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\DA_Q.cs">
+    <Files>
+      <File FileName="Assets\Script\Gamemanager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\state.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\DA_Q.cs" Line="53" Column="19" />
+      <File FileName="Assets\Script\DONG_Q.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\PAL_Q.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SAN_Q.cs" Line="71" Column="1" />
+      <File FileName="Assets\Script\SEO_Q.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SONG_Q.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\WON_Q.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\YUL_Q.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\JONG_Q.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GO_build.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
